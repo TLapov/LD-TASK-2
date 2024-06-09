@@ -1,8 +1,7 @@
 # Blog Showcase Section
 
 ## Overview
-This project features a responsive blog post showcase section, designed to be pixel perfect compared to Figma designs at 375px and 1440px resolutions. The section is implemented using HTML, CSS, and JavaScript, with a focus on a simple layout without using any grid framework.
-
+This project features a responsive blog post showcase section, designed to be pixel perfect compared to Figma designs at 375px and 1440px resolutions.
 ## Features
 - **Post Showcase Section**: A section to display blog posts.
 - **Responsive Design**: Ensures the section looks great on various screen sizes.
